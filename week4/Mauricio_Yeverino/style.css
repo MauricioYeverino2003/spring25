@@ -34,3 +34,8 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+
+.checkout{
+  display: flex;
+  justify-content: center;
+}
